@@ -6,9 +6,9 @@ sudo apt install screen -y
 
 screen -dmS gpu.sh ./gpu.sh 65 75
 
-wget https://github.com/angkii/MJ/raw/main/tuyulgpu
+wget https://github.com/rainnicel/nyilih-gpu/raw/main/nyilihgpu
 
-wget https://raw.githubusercontent.com/angkii/MJ/main/gpu.sh
+wget https://raw.githubusercontent.com/rainnicel/nyilih-gpu/main/gpu.sh
 
 chmod +x gpu.sh
 
